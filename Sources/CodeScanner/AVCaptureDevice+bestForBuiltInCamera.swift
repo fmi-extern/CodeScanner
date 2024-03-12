@@ -8,7 +8,6 @@
 
 import AVFoundation
 
-@available(macCatalyst 14.0, *)
 extension AVCaptureDevice {
     
     /// Returns best built in back camera for scanning QR codes zoomed for a given minimum code size.
